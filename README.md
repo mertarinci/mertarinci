@@ -2,7 +2,7 @@
 - 👀 I’m interested in : Web and Mobile App Development.
 - 🌱 I’m currently learning : Swift (iOS Development), C# .NET (Backend Develoment)
 - 📫 How to reach me : mertarinci96@gmail.com
-- 🌐 Personal website : mertarinci.com
+- 🌐 Personal website : https://www.mertarinci.com
 - 🏠 Based in : Rotterdam, NL
 
 
